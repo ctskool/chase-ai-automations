@@ -1,0 +1,21 @@
+# Your own settings and secrets
+config.json
+.env
+*.env
+!*.env.example
+
+# Anything a run produces
+logs/
+data/
+output/
+briefings/
+*.log
+
+# Browser sessions and scratch files
+.auth/
+.tmp/
+
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store

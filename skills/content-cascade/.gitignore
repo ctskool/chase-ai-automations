@@ -1,0 +1,3 @@
+# Your personal settings and secrets stay local.
+config.json
+.env

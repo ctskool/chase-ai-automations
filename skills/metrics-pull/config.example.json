@@ -1,0 +1,14 @@
+{
+  "output_folder": "~/metrics",
+  "youtube": {
+    "channel_id": "",
+    "handle": "@yourchannel"
+  },
+  "instagram": {
+    "enabled": false
+  },
+  "claude_usage": {
+    "enabled": true,
+    "window_hours": 5
+  }
+}

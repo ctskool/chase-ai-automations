@@ -1,0 +1,22 @@
+{
+  "output_folder": "~/outlier-radar",
+  "seed_queries": [
+    "claude code",
+    "ai agents",
+    "ai coding",
+    "vibe coding",
+    "ai automation",
+    "mcp server"
+  ],
+  "relevance_language": "en",
+  "region_code": "",
+  "published_within_days": 7,
+  "results_per_query": 25,
+  "subs_min": 200,
+  "subs_max": 100000,
+  "min_views": 500,
+  "ratio_threshold": 1.5,
+  "fresh_velocity_threshold": 10,
+  "watchlist_max": 75,
+  "report_top_n": 15
+}

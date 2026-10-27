@@ -1,0 +1,8 @@
+{
+  "source": "csv",
+  "csv_path": "~/leads/leads.csv",
+  "supabase_table": "leads",
+  "briefings_dir": "~/leads/briefings",
+  "my_emails": ["you@yourdomain.com"],
+  "max_per_run": 10
+}

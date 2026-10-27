@@ -1,0 +1,19 @@
+{
+  "title": "Ship streak",
+  "output_folder": "~/ship-streak",
+  "start_date": "2027-01-01",
+  "end_date": "2027-03-31",
+  "youtube": {
+    "channel_id": "",
+    "handle": "@yourchannel",
+    "shorts_max_seconds": 180
+  },
+  "tracks": [
+    { "id": "longform", "label": "Long-form video", "source": "youtube_longform", "per_day": 1 },
+    { "id": "shorts", "label": "Shorts", "source": "youtube_shorts", "per_day": 2 },
+    { "id": "carousel", "label": "Instagram carousel", "source": "manual", "per_day": 1 },
+    { "id": "story", "label": "Story", "source": "manual", "per_day": 1 }
+  ],
+  "freezes_per_month": 2,
+  "port": 4630
+}
